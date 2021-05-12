@@ -8,5 +8,11 @@ Apssdc on reactjs
 *hicy*
 **qwerty**
 ***qwerty***
-#unorderd list
-  *hi
+# unorderd list
+* fruits
+  * mangoes
+  * banans
+  * apples
+# ordered list
+
+
